@@ -46,3 +46,8 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Download
+======
+
+Get my full [CV](resume.pdf) here.
