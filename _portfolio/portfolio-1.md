@@ -4,4 +4,4 @@ excerpt: "In this project, we created a tool to survey how people asscociate col
 collection: portfolio
 ---
 
-In this [project](colorofemotions.cs.umass.edu), we created a tool to survey how people asscociate colors with certain emotions. The goal is to identify  representating color palettes to visualize emotion using colors.
+In this [project](https://colorofemotions.cs.umass.edu), we created a tool to survey how people asscociate colors with certain emotions. The goal is to identify  representating color palettes to visualize emotion using colors.
