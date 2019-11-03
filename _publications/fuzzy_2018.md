@@ -1,10 +1,10 @@
 ---
-title: "A Real-Time Computer Vision-Based Static and Dynamic Hand Gesture Recognition System"
+title: "A Real-Time Hand-Signs Segmentation and Classification System Using Fuzzy Rule Based RGB Model and Grid-Pattern Analysis"
 collection: publications
-permalink: /publication/IJIG_2014
+permalink: /publication/ROBIO_2015
 excerpt: ''
-date: 2014-10-01
-venue: 'Internation Journal of Image and Graphics'
-citation: 'A Real-Time Computer Vision-Based Static and Dynamic Hand Gesture Recognition System, Mahmood Jasim, Tao Zhang, Md Hasanuzzaman, International Journal of Image and Graphics, 2014, Volume 14, Issue 01n02, Pages 145006 [18 Pages]'
+date: 2015-10-01
+venue: 'IEEE Robotics and Biomimetics'
+citation: 'Real-time Bengali and Chinese numeral signs recognition using contour matching, Muhammad Aminur Rahaman, Mahmood Jasim, Tao Zhang, Md Haider Ali, Md Hasanuzzaman, Robotics and Biomimetics (ROBIO), IEEE International Conference on, IEEE, 2015, Pages: 1215 – 1220'
 
 ---
