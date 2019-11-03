@@ -1,4 +1,3 @@
-
 ---
 title: "A Real-Time Computer Vision-Based Static and Dynamic Hand Gesture Recognition System"
 collection: publications
