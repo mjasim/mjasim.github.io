@@ -1,10 +1,10 @@
 ---
 title: "A Real-Time Hand-Signs Segmentation and Classification System Using Fuzzy Rule Based RGB Model and Grid-Pattern Analysis"
 collection: publications
-permalink: /publication/ROBIO_2015
+permalink: /publication/Frontier_2018
 excerpt: ''
-date: 2015-10-01
-venue: 'IEEE Robotics and Biomimetics'
-citation: 'Real-time Bengali and Chinese numeral signs recognition using contour matching, Muhammad Aminur Rahaman, Mahmood Jasim, Tao Zhang, Md Haider Ali, Md Hasanuzzaman, Robotics and Biomimetics (ROBIO), IEEE International Conference on, IEEE, 2015, Pages: 1215 – 1220'
+date: 2018-10-01
+venue: 'Frontiers of Computer Science'
+citation: '[1]	A Real-Time Hand-Signs Segmentation and Classification System Using Fuzzy Rule Based RGB Model and Grid-Pattern Analysis, Muhammad Aminur Rahaman, Mahmood Jasim, Md. Haider Ali, Tao Zhang, Md. Hasanuzzaman, Frontiers of Computer Science, 2018, 12 (6): 1258-1260, 2018'
 
 ---
