@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Lecturer"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Dhaka, Department of Computer Science and Engineering"
 date: 2014-01-01
-location: "City, Country"
+location: "Dhaka, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Operating Systems
 ======
 
-Heading 2
-======
-
-Heading 3
+Distributed Systems
 ======
