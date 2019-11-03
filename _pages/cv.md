@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Computer Science and Engineering, University of Dhaka, 2011
+* M.S. in Computer Science and Engineering, University of Dhaka, 2013
+* Ph.D in HCI and Information Visuazlization, University of Massachusetts Amherst, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* * 2018 to Present: Research Assistance, Digital Civics Lab 
+  * University of Massachusetts Amherst
+  * Duties included: Design and development of online tools to increase participation and facilitate public opinion undestanding and sensemaking
+  * Supervisor: Narges Mahyar
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017: Research Assistant, AHHA Lab
+  * University of Massachusetts Amherst
+  * Duties included: Understanding, recognizing, and recreating handwriting using wrist-worn sensors 
+  * Supervisor: Professor Sunghoon Ivan Lee
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python 
+* JavaScript
+* Data Analysis
+  * Qualitative
+  * Quantitative
 
 Publications
 ======
@@ -53,7 +52,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
