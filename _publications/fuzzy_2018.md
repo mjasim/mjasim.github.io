@@ -1,1 +1,11 @@
 
+---
+title: "A Real-Time Computer Vision-Based Static and Dynamic Hand Gesture Recognition System"
+collection: publications
+permalink: /publication/IJIG_2014
+excerpt: ''
+date: 2014-10-01
+venue: 'Internation Journal of Image and Graphics'
+citation: 'A Real-Time Computer Vision-Based Static and Dynamic Hand Gesture Recognition System, Mahmood Jasim, Tao Zhang, Md Hasanuzzaman, International Journal of Image and Graphics, 2014, Volume 14, Issue 01n02, Pages 145006 [18 Pages]'
+
+---
