@@ -4,4 +4,4 @@ excerpt: "Spotter is a bare-bones annotation tool that enables labeling of civic
 collection: portfolio
 ---
 
-Spotter is a bare-bones annotation tool that enables labeling of civic input datasets.
+[Spotter](https://communitypulse.cs.umass.edu/spotter/) is a bare-bones annotation tool that enables labeling of civic input datasets.
