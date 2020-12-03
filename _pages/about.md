@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student working with Professor [Narges Mahyar](https://www.cics.umass.edu/people/mahyar-narges) on Digital Civics. My research interests include bridging the gap between civic leaders and the community members by developing intuitive technology applying visualization and machine learning. I am also exploring affective computing to enable natural communication between humans and machines. <b>I am currently looking for internship opportunities in HCI, Affective Computing and Information Visualization.<b>
+I am a Ph.D. student working with Professor [Narges Mahyar](https://www.cics.umass.edu/people/mahyar-narges) on Digital Civics. My research interests include bridging the gap between decision-makers and the data providers by developing interactive technologies using information visualization, natural language processing, and human computer interaction. <b>I am currently looking for internship opportunities in HCI and information visualization.<b>
