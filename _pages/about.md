@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student working with Professor [Narges Mahyar](https://www.cics.umass.edu/people/mahyar-narges). My research interests include bridging the gap between decision-makers and the data providers by developing interactive technologies using information visualization, human computer interaction, and machine learning. <b>I am currently looking for internship opportunities in HCI and information visualization.<b>
+I am a Ph.D. student working with Professor [Narges Mahyar](https://www.cics.umass.edu/people/mahyar-narges) in Digital Civics. My research interests include bridging the gap between decision-makers and the data providers by developing interactive technologies using information visualization, human computer interaction, and machine learning. <b>I am currently looking for internship opportunities in HCI and information visualization.<b>
