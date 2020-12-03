@@ -13,13 +13,13 @@ Education
 ======
 * B.Sc. in Computer Science and Engineering, University of Dhaka, 2011
 * M.S. in Computer Science and Engineering, University of Dhaka, 2013
-* Ph.D in HCI and Information Visuazlization, University of Massachusetts Amherst, 2023 (expected)
+* Ph.D in Computer Science and Engineering, University of Massachusetts Amherst, 2023 (expected)
 
 Work experience
 ======
 * * 2018 to Present: Research Assistance, Digital Civics Lab 
   * University of Massachusetts Amherst
-  * Duties included: Design and development of online tools to increase participation and facilitate public opinion undestanding and sensemaking
+  * Duties included: Design and development of interactive technologies to increase inclusive participation and facilitate sensemaking of public-generated data 
   * Supervisor: Narges Mahyar
 
 * 2017: Research Assistant, AHHA Lab
@@ -32,8 +32,6 @@ Skills
 * Python 
 * JavaScript
 * Data Analysis
-  * Qualitative
-  * Quantitative
 
 Publications
 ======
