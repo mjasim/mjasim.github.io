@@ -1,4 +1,3 @@
-
 ---
 title: "CommunityClick"
 excerpt: "In this project, we created CommunityClick, an interactive system to capture and report community feedback to increase inclusivity in town halls.<img src='/images/cc.png'>"
